@@ -1,2 +1,1 @@
-# V2Ray
-V2Ray
+# V2Ray_Subscription 
